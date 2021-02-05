@@ -2,7 +2,7 @@
   "name": "pickaxe",
   "description": "Pickaxe XRPackage",
   "xr_type": "webxr-site@0.0.1",
-  "start_url": "pickaxe.glb",
+  "start_url": "index.js",
   "components": [
     {
       "type": "wear",
