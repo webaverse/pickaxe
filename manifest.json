@@ -5,8 +5,9 @@
   "start_url": "index.js",
   "components": [
     {
-      "type": "swing",
-      "swingAnimation": "combo"
+      "type": "use",
+      "subtype": "gun",
+      "useAnimation": "combo"
     }
   ]
 }
