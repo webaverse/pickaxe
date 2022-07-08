@@ -15,7 +15,7 @@
       "value": {
         "animation": "pickaxe",
         "behavior": "sword",
-        "boneAttachment": "rightHand", // actually leftHand ( left right inversed )
+        "boneAttachment": "rightHand",
         "position": [0.07, -0.03, 0],
         "quaternion": [0.7071067811865475, 0, 0, 0.7071067811865476],
         "scale": [1, 1, 1]
